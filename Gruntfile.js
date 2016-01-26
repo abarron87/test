@@ -291,7 +291,7 @@ module.exports = function (grunt) {
         },
         pages: {
           options: {
-            remote: 'git@github.com:abarron87/skwedding.git',
+            remote: 'git@github.com:abarron87/test.git',
             branch: 'gh-pages'
           }
         }
